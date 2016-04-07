@@ -96,3 +96,4 @@ List of people you can ping for feedback on Pull Requests or any questions.
 - [Victor Vieux](https://github.com/vieux)
 - [Evan Hazlett](https://github.com/ehazlett)
 - [Donald Huang](https://github.com/donhcd)
+- ...
